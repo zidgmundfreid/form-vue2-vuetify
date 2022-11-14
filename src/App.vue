@@ -27,8 +27,9 @@ export default {
 
 <style>
 .v-application--wrap {
-  height: 100vh;
-  background-image: url(./assets/bg-coverbackground.jpg) ;
+  height: 100%;
+  background-image: url(./assets/bg-coverbackground.jpg);
+  background-size: 100%;
 
 }
 
